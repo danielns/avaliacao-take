@@ -1,3 +1,0 @@
-require(data.table)
-
-funcionarios = read.csv("data-raw/lista_de_funcionários.csv")
